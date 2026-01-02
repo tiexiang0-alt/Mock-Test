@@ -1,0 +1,2 @@
+# Edge TTS Server Dependencies
+edge-tts>=6.1.0

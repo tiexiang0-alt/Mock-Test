@@ -1,0 +1,5 @@
+{
+  "name": "TOEFL Listening Prep AI",
+  "description": "A fully interactive TOEFL Listening Practice Test powered by Gemini TTS for realistic native audio generation.",
+  "requestFramePermissions": []
+}
