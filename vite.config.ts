@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
     // Base path for GitHub Pages (repository name)
-    base: '/toefl-listening-prep-ai/',
+    base: '/Mock-Test/',
     server: {
       port: 3000,
       host: '0.0.0.0',
